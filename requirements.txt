@@ -1,0 +1,4 @@
+pyspark==3.5.0
+cassandra-driver==3.29.0
+pandas==2.1.4
+matplotlib==3.8.2
